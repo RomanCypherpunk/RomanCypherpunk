@@ -19,6 +19,8 @@ I'm currently studying **Systems Analysis and Development** with a focus on **Ba
 class Developer:
     def __init__(self):
         self.full_name = "Enzo Xavier Santos"
+        self.age = 21
+        self.nacionality = "Brazilian"
         self.profile = "Software developer passionate about technology, finance, strategy, analysis, and development."
         self.focus = "Data Analysis & Backend"
         self.education = "Systems Analysis and Development"
