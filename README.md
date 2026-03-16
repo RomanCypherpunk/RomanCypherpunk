@@ -1,28 +1,25 @@
-# Hello World!
+# Enzo Xavier Santos
 
-![BR](https://img.shields.io/badge/Language-PT--BR-green) 
+Software engineer focused on backend development, data analysis, and process automation. Work spans API development, business intelligence, and database management. Main interests include RESTful architectures, data-driven decision making, ETL pipelines, and scalable systems.
 
-Me chamo **Enzo Xavier**, sou apaixonado por tecnologia, finanças, estratégia, análise e desenvolvimento de software!
-Atualmente curso **Análise e Desenvolvimento de Sistemas** com foco em **Back-end** e **Análise de Dados**.
+## Areas of Interest
 
+- Backend development and API design
+- Data analysis and business intelligence
+- Process automation and system integration
+- Database management and optimization
+- Agile methodologies and software architecture
 
-![US](https://img.shields.io/badge/Language-EN--US-blue)
+## Technologies
 
-My name is **Enzo Xavier**, I'm passionate about technology, finance, strategy, analysis, and software development!
-I'm currently studying **Systems Analysis and Development** with a focus on **Back-end** and **Data Analysis**.
+- **Languages:** Python, Java, C#, JavaScript, C
+- **Frameworks:** Django, Flask, ASP.NET Core, Spring Boot
+- **Data & BI:** Power BI, Excel, SQL, ETL Tools, Data Modeling
+- **Systems:** RESTful APIs, Windows Forms, Git/GitHub
+- **Databases:** SQL Server, Oracle, PostgreSQL
 
----
+## Contact
 
-## Sobre mim / About me
-
-```Python
-class Developer:
-    def __init__(self):
-        self.full_name = "Enzo Xavier Santos"
-        self.age = 21
-        self.nacionality = "Brazilian"
-        self.profile = "Software developer passionate about technology, finance, strategy, analysis, and development."
-        self.focus = "Data Analysis & Backend"
-        self.education = "Systems Analysis and Development"
-        self.stack = ["JavaScript", "Python", "C#", ".NET & ASP.NET", "Git"]
-```
+- LinkedIn: [Enzo Xavier Santos](https://www.linkedin.com/in/enzo-xavier-santos/)
+- GitHub: [RomanCypherpunk](https://github.com/RomanCypherpunk)
+- Email: enzo.xs@hotmail.com
