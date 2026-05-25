@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Enzo Xavier 👋</h1>
+<h1 align="center">Enzo Xavier Santos</h1>
 
 <p align="center">
   <b>Desenvolvedor de Software | Backend Java</b><br>
@@ -37,7 +37,7 @@ Desenvolvedor de software com foco em **backend Java**, análise de dados e auto
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 **Linguagens**
 
@@ -75,16 +75,3 @@ Desenvolvedor de software com foco em **backend Java**, análise de dados e auto
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
----
-
-### Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanCypherpunk&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanCypherpunk&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanCypherpunk&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
